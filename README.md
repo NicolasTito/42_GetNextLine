@@ -1,0 +1,1 @@
+# 42_lvl_1_GET_NEXT_LINE
